@@ -1,6 +1,6 @@
 # Telegram group members scraper
 
-<a href="https://ibb.co/RYW5VCP"><img src="https://i.ibb.co/hLvqtKH/Screenshot-2022-06-01-123346.png" alt="Screenshot-2022-06-01-123346" border="0"></a>
+<a href="https://ibb.co/LQNcRVL"><img src="https://i.ibb.co/GsH8pzK/Screenshot-2022-06-01-121646.png" alt="Screenshot-2022-06-01-121646" border="0"></a>
 
 More screenshots - https://ibb.co/album/H780dh
 
