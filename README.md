@@ -23,7 +23,7 @@ If you have your own specific requirements I can make the modifications accordin
 * Pandas 1.4.2
 
 ### 🛒 HOW TO BUY
-Contact me to buy this program only if you can make the payment using one of these methods. Airtm, Payeer, Payoneer, Skrill, or Cryptocurrency(ERC-20) - USDT, USDC, BUSD. Price of this script would be $25.
+Contact me to buy this program only if you can make the payment using one of these methods. Airtm, Payeer, Payoneer, or Cryptocurrency(ERC-20) - USDT, USDC, BUSD. Price of this script would be $25.
 
 ### 📞 CONTACT ME
 If you have any other questions or If you have a development to do for me, feel free to send me a message.
