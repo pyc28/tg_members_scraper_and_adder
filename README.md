@@ -1,32 +1,30 @@
-# Telegram group members scraper
+# Telegram group members scraper + adder
 
-<a href="https://ibb.co/LQNcRVL"><img src="https://i.ibb.co/GsH8pzK/Screenshot-2022-06-01-121646.png" alt="Screenshot-2022-06-01-121646" border="0"></a>
+<img src="https://i.ibb.co/8jkpN6W/Screenshot-2022-06-01-121526.png" alt="Screenshot-2022-06-01-121526" border="0">
 
-More screenshots - https://ibb.co/album/H780dh
+More screenshots: https://ibb.co/album/H780dh
 
----
+### 🛒 How to buy
+You can contact me to buy this program. Accepted payment methods. Airtm, Payeer, Payoneer, USDT(ERC-20), USDC(ERC-20), BUSD(ERC-20). Price for this tool would be $35
 
-### 💡 FEATURES
-* Scrape multiple groups at the same time.
-* Filter members are active within a certain time period.
-* Filter members that have/haven't username.
-* Scrape using group links.
-* Scrape using joined groups.
-* Scrape users' phone numbers if you need them.
-* Remove/keep group admins when scraping.
+### 💡 Features of the script
+1. Scrape multiple groups at the same time.
+2. Filter members are active within a certain time period.
+3. Filter members that have/haven't username.
+4. Scrape using group links.
+5. Scrape using joined groups.
+6. Scrape users' phone numbers if you need them.
+7. Remove/keep group admins when scraping.
+8. Add members to your telegram groups
 
 If you have your own specific requirements I can make the modifications according to that.
 
-### ⚙️ DEVELOPMENT INFO
-* Python 3.9.7
-* Telethon 1.24.0
-* Pandas 1.4.2
+### ⚙️ Development details
+- Python 3.9.7
+- Telethon 1.24.0
+- Pandas 1.4.2
 
-### 🛒 HOW TO BUY
-Contact me to buy this program only if you can make the payment using one of these methods. Airtm, Payeer, Payoneer, or Cryptocurrency(ERC-20) - USDT, USDC, BUSD. Price of this script would be $25.
-
-### 📞 CONTACT ME
-If you have any other questions or If you have a development to do for me, feel free to send me a message.
+📞 CONTACT ME
 * Email - sayhi@pycoder28.anonaddy.com
 * Telegram - pycoder28
 * Discord - pycoder#5722
