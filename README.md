@@ -27,6 +27,5 @@ If you have your own specific requirements I can make the modifications accordin
 - Pandas 1.4.2
 
 ### 📞 Contact me
-* Email - pycoder28@gmail.com
 * Telegram - pycoder28
 * Discord - pycoder#5722
