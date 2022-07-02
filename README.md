@@ -14,10 +14,12 @@ You can contact me to buy this program. Accepted payment methods. Airtm, Payeer,
 2. Filter members are active within a certain time period.
 3. Filter members that have/haven't username.
 4. Scrape using group links.
-5. Scrape using joined groups.
-6. Scrape users' phone numbers if you need them.
-7. Remove/keep group admins when scraping.
-8. Add members to your telegram groups
+5. Scrape using joined groups
+6. Scrape telegram channels
+7. Scrape users' phone numbers if you need them.
+8. Remove/keep group admins when scraping.
+9. Add members to your telegram groups
+10. Add subscribers to your channels
 
 If you have your own specific requirements I can make the modifications according to that.
 
