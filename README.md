@@ -4,8 +4,6 @@
 
 More screenshots: https://ibb.co/album/H780dh
 
-Demo - https://youtu.be/MgNEmYi63Kc
-
 ### 🛒 How to buy
 You can contact me to buy this program. Accepted payment methods. Airtm, Payeer, Payoneer, USDT(ERC-20), USDC(ERC-20), BUSD(ERC-20). Price for this tool would be $35
 
