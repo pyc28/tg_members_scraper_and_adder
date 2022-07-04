@@ -5,7 +5,7 @@
 More screenshots: https://ibb.co/album/H780dh
 
 ### 🛒 How to buy
-You can contact me to buy this program. Accepted payment methods. Airtm, Payeer, Payoneer, USDT(ERC-20), USDC(ERC-20), BUSD(ERC-20). Price for this tool would be $35
+You can contact me to buy this program. Accepted payment methods: Payeer, USDT(ERC-20), USDC(ERC-20). Price for this tool would be $35
 
 ### 💡 Features of the script
 1. Scrape multiple groups at the same time.
