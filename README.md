@@ -2,6 +2,8 @@
 
 <img src="https://i.ibb.co/8jkpN6W/Screenshot-2022-06-01-121526.png" alt="Screenshot-2022-06-01-121526" border="0">
 
+Contact me to get a demo.
+
 More screenshots: https://ibb.co/album/H780dh
 
 ### 🛒 How to buy
