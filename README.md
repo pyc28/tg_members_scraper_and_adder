@@ -1,25 +1,17 @@
-# Telegram group/channel members scraper + adder
+# <p align="center">Telegram Group Members Scraper + Group & Channel Members Adder<p>
 
-<img src="https://i.ibb.co/8jkpN6W/Screenshot-2022-06-01-121526.png" alt="Screenshot-2022-06-01-121526" border="0">
+<img src="img.png" alt="image" border="0">
 
-Contact me to get a demo.
-
-More screenshots: https://ibb.co/album/H780dh
+Contact me to get a demo or more details.
 
 ### 🛒 How to buy
 You can contact me to buy this program. Accepted payment methods: Payeer, Cryptocurrency. Price for this tool would be $35
 
 ### 💡 Features of the script
 1. Scrape multiple groups at the same time.
-2. Filter members are active within a certain time period.
-3. Filter members that have/haven't username.
-4. Scrape using group links.
-5. Scrape using joined groups
-6. Scrape telegram channels
-7. Scrape users' phone numbers if you need them.
-8. Remove/keep group admins when scraping.
-9. Add members to your telegram groups
-10. Add subscribers to your channels
+2. Scrape using group links or joined groups
+3. Scrape telegram channels(Only channels where you have admin access)
+4. Add members to groups & channels
 
 If you have your own specific requirements I can make the modifications according to that.
 
